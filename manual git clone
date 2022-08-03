@@ -1,0 +1,5 @@
+andra@andra-VirtualBox:~$ git clone https://github.com/LineageOS/android_vendor_qcom_opensource_wfd-commonsys.git /home/andra/android/lineage/.repo/project-objects/LineageOS
+
+
+repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
+

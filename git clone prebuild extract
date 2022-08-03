@@ -1,0 +1,41 @@
+git clone https://github.com/LineageOS/android_tools_extract-utils -b lineage-19.1 android/tools/extract-utils2
+git clone https://github.com/LineageOS/android_prebuilts_extract-tools -b lineage-19.1 android/prebuilts/extract-tools2
+
+
+git clone https://github.com/LineageOS/android_tools_extract-utils -b lineage-18.1 android/tools/extract-utils
+git clone https://github.com/LineageOS/android_prebuilts_extract-tools -b lineage-18.1 android/prebuilts/extract-tools
+
+
+git clone https://github.com/LineageOS/android_tools_extract-utils -b lineage-19.0 android/tools/extract-utils3
+git clone https://github.com/LineageOS/android_prebuilts_extract-tools -b lineage-19.0 android/prebuilts/extract-tools3
+
+
+
+
+
+
+========================== not found ==================
+
+
+
+git clone https://github.com/LineageOS/android_tools_extract-utils -b lineage-17.1 android/tools/extract-utils3
+git clone https://github.com/LineageOS/android_prebuilts_extract-tools -b lineage-17.1 android/prebuilts/extract-tools3
+
+
+git clone https://github.com/LineageOS/android_tools_extract-utils -b lineage-16.1 android/tools/extract-utils4
+git clone https://github.com/LineageOS/android_prebuilts_extract-tools -b lineage-16.1 android/prebuilts/extract-tools4
+
+git clone https://github.com/LineageOS/android_tools_extract-utils -b lineage-15.1 android/tools/extract-utils5
+git clone https://github.com/LineageOS/android_prebuilts_extract-tools -b lineage-15.1 android/prebuilts/extract-tools5
+
+
+git clone https://github.com/LineageOS/android_tools_extract-utils -b lineage-17.0 android/tools/extract-utils3
+git clone https://github.com/LineageOS/android_prebuilts_extract-tools -b lineage-17.0 android/prebuilts/extract-tools3
+
+
+git clone https://github.com/LineageOS/android_tools_extract-utils -b lineage-16.0 android/tools/extract-utils4
+git clone https://github.com/LineageOS/android_prebuilts_extract-tools -b lineage-16.0 android/prebuilts/extract-tools4
+
+git clone https://github.com/LineageOS/android_tools_extract-utils -b lineage-15.0 android/tools/extract-utils5
+git clone https://github.com/LineageOS/android_prebuilts_extract-tools -b lineage-15.0 android/prebuilts/extract-tools5
+
