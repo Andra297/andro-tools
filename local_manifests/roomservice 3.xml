@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+  <project path="device/samsung/ms013g" remote="github" name="djchittoor/android_device_samsung_ms013g" revision="lineage-17.1" />
+  <project path="device/samsung/ms01-common" remote="github" name="djchittoor/android_device_samsung_ms01-common" revision="staging/lineage-17.1" />
+  <project path="device/samsung/msm8226-common" remote="github" name="LineageOS/android_device_samsung_msm8226-common" revision="lineage-18.1"/>
+  <project path="kernel/samsung/msm8226" remote="github" name="LineageOS/android_kernel_samsung_msm8226" />
+  
+  <project name="TheMuppets/proprietary_vendor_asus" path="vendor/asus" />
+  
+  <project path="device/asus/Z01H" name="eudigorodrigo/android_device_ASUS_Z01H_1" remote="github" revision="lineage-15.0" />
+  <project path="device/asus/msm8953-common" name="Anandnv/device_asus_msm8953-common" remote="github" revision="oreo" />
+  <project path="kernel/asus/msm8953" name="LineageOS/android_kernel_asus_msm8953" remote="github" revision="lineage-16.0" />
+  <project path="kernel/asus/Z01H" name="eudigorodrigo/android-kernel-ASUS_Z01H_1" remote="github" revision="lineage-15.0" />
+  <project path="vendor/asus/Z01H" name="AndroidBlobs/vendor_asus_msm8953_64" remote="github" />
+  <project path="vendor/qcom/msm8996" name="LineageOS/android_kernel_qcom_msm8996" remote="github" revision="lineage-18.1" />
+
+
+
+<project path="device/meizu/m2note" name="nougat_device_meizu_m2note" remote="github" revision="los-14.1"  />
+	<project path="kernel/meizu/m2note" name="android_kernel_meizu_m2note" remote="github" revision="master" />
+	<project path="vendor/meizu/m2note" name="android_vendor_meizu_m2note" remote="github" />
+
+
+</manifest>
+
+
+  
