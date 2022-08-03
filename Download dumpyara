@@ -1,0 +1,36 @@
+ndra@andra-VirtualBox:~$ git clone https://github.com/AndroidDumps/dumpyara
+cd dumpyara
+Cloning into 'dumpyara'...
+remote: Enumerating objects: 439, done.
+remote: Counting objects: 100% (108/108), done.
+remote: Compressing objects: 100% (39/39), done.
+remote: Total 439 (delta 72), reused 69 (delta 69), pack-reused 331
+Receiving objects: 100% (439/439), 107.62 KiB | 1.01 MiB/s, done.
+Resolving deltas: 100% (209/209), done.
+andra@andra-VirtualBox:~/dumpyara$ git clone https://github.com/LineageOS/android_tools_extract-utils -b lineage-18.1 android/tools/extract-utils
+git clone https://github.com/LineageOS/android_prebuilts_extract-tools -b lineage-18.1 android/prebuilts/extract-tools
+Cloning into 'android/tools/extract-utils'...
+remote: Enumerating objects: 512, done.
+remote: Counting objects: 100% (184/184), done.
+remote: Compressing objects: 100% (44/44), done.
+remote: Total 512 (delta 165), reused 143 (delta 140), pack-reused 328
+Receiving objects: 100% (512/512), 173.31 KiB | 345.00 KiB/s, done.
+Resolving deltas: 100% (265/265), done.
+Cloning into 'android/prebuilts/extract-tools'...
+remote: Enumerating objects: 70, done.
+remote: Counting objects: 100% (70/70), done.
+remote: Compressing objects: 100% (50/50), done.
+remote: Total 70 (delta 17), reused 64 (delta 11), pack-reused 0
+Receiving objects: 100% (70/70), 14.26 MiB | 2.20 MiB/s, done.
+Resolving deltas: 100% (17/17), done.
+andra@andra-VirtualBox:~/dumpyara$ git clone https://github.com/aex-tmp/platform_build.git
+Cloning into 'platform_build'...
+remote: Enumerating objects: 785392, done.
+remote: Counting objects: 100% (7385/7385), done.
+remote: Compressing objects: 100% (3925/3925), done.
+remote: Total 785392 (delta 3932), reused 6889 (delta 3460), pack-reused 778007
+Receiving objects: 100% (785392/785392), 1.32 GiB | 1.78 MiB/s, done.
+Resolving deltas: 100% (518077/518077), done.
+andra@andra-VirtualBox:~/dumpyara$ 
+
+
