@@ -1,0 +1,22 @@
+link ota
+
+
+#request
+
+Xiaomi 12 lite (taoyao)
+
+https://bigota.d.miui.com/V13.0.3.0.SLIMIXM/miui_TAOYAOGlobal_V13.0.3.0.SLIMIXM_f804b4f16c_12.0.zip
+
+#request
+
+infinix note 4 pro  (x571)
+     https://drive.google.com/file/d/1r5Ivt4asCQhhpiRme0B5CLmrw1K9Zw4D/view?usp=sharing
+
+
+
+dumpyara command = 
+  bash setup.sh
+  bash dumpyara.sh "<OTAlink> OR <OTA file path>" yourGithubToken
+  
+  
+  

@@ -1,0 +1,25 @@
+repo init -u https://android.googlesource.com/platform/manifest -b master
+
+repo init -u https://android.googlesource.com/platform/manifest -b android-12.1.0_r16
+
+repo init -u https://android.googlesource.com/platform/manifest -b android-12.1.0_r11
+
+repo init -u https://android.googlesource.com/platform/manifest -b android-security-12.0.0_r37
+
+repo init -u https://android.googlesource.com/platform/manifest -b android-12.0.0_r34
+
+repo init -u https://android.googlesource.com/platform/manifest -b android-security-9.0.0_r76
+
+repo init -u https://android.googlesource.com/platform/manifest -b master
+
+repo init -u https://android.googlesource.com/platform/manifest -b master
+
+
+repo init -u https://android.googlesource.com/platform/manifest -b master --partial-clone --clone-filter=blob:limit=10M
+
+repo init -u https://android.googlesource.com/platform/manifest -b android-security-9.0.0_r76 --partial-clone --clone-filter=blob:limit=10M
+
+repo init -u https://android.googlesource.com/platform/manifest -b master --partial-clone --clone-filter=blob:limit=10M
+
+repo sync -c -j8
+repo sync -c -j8

@@ -1,0 +1,14 @@
+andra@andra-VirtualBox:~/android/aosp9$ repo init -u https://android.googlesource.com/platform/manifest -b android-security-9.0.0_r76 --partial-clone --clone-filter=blob:limit=10M
+Downloading Repo source from https://gerrit.googlesource.com/git-repo
+remote: Finding sources: 100% (5/5)
+remote: Total 7451 (delta 4009), reused 7448 (delta 4009)
+
+Your identity is: Andra297 <andra2907@gmail.com>
+If you want to change this, please re-run 'repo init' with --config-name
+
+repo has been initialized in /home/andra/android/aosp9/
+If this is not the directory in which you want to initialize repo, please run:
+   rm -r /home/andra/android/aosp9//.repo
+and try again.
+andra@andra-VirtualBox:~/android/aosp9$ 
+
